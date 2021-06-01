@@ -1,0 +1,1 @@
+- Development lifecycles, pros and cons Watefall/Agile.
